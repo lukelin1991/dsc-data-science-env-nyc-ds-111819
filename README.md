@@ -5,7 +5,7 @@
 If you might want to become a professional data scientist, it’s important to take a little time to “set yourself up for success” by installing and learning to use the right tools on your computer. If you already have Git and Anaconda installed, feel free to jump down to the cloning, virtual environment setup and testing towards the bottom of the page.
 
 ## Objectives
-You will be able to:
+You will be able to.:
 * Install a professional data science environment
 
 ## What Tools do Professional Data Scientists Use?
